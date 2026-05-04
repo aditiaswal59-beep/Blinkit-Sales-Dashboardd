@@ -51,7 +51,7 @@ The goal of this project is to analyze retail sales data and answer key business
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images)
 
 ---
 
@@ -63,4 +63,9 @@ The goal of this project is to analyze retail sales data and answer key business
 
 ---
 
-## 📁 Project Structure
+---
+
+## 📌 Conclusion
+This dashboard helps in understanding sales trends, customer preferences, and outlet performance, enabling data-driven decision-making in the retail domain.
+
+---
